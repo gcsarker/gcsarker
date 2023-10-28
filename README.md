@@ -2,6 +2,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&duration=5500&pause=1000&color=9A13F7&center=true&vCenter=true&random=false&width=500&height=120&lines=Hi!+I+am+Gobinda..;EEE+Graduate;A+Machine+Learning+Enthusiast;A+Researcher" alt="Typing SVG" /></a>
 </p>
+
+## <picture><img src = "https://github.com/gcsarker/gcsarker/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+
 <!--
 **gcsarker/gcsarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
