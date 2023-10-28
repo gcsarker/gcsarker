@@ -17,10 +17,8 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/gcsarker/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<!--
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
-<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
---> 
+<a href="https://www.facebook.com/gobinda.chandrasarker.71" target="blank"><img align="center" src="https://github.com/gcsarker/gcsarker/blob/91219b3ae71039f4671e9c933b7a9a6f2bc1ce7d/logo-facebook-png-46280.png" alt="facebook" height="50" width="50" /></a>
+<a href="gcsarker001@gmail.com" target="blank"><img align="center" src="https://github.com/gcsarker/gcsarker/blob/91219b3ae71039f4671e9c933b7a9a6f2bc1ce7d/gmail-icon-38472.png" alt="gmail" height="68" width="50" /></a>
 </p>
 
 <!--
