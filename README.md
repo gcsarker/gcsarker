@@ -4,7 +4,12 @@
 </p>
 
 ## <picture><img src = "https://github.com/gcsarker/gcsarker/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
-
+- I am passionate about Artificial Intelligence and Robotics
+- I love to learn and discuss anything new regarding Machine Learning.
+- Currently I am doing research in Robotics \& HCI.
+- I am currently a graduate student at the University of Dhaka.
+- In my spare time  I love playing games and reading books.
+- This is my <a href= 'https://github.com/gcsarker/gcsarker/cv.pdf'>resume.</a>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
