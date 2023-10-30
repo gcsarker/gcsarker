@@ -90,9 +90,11 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Research Tools**
+- **Research Tools**:
 
-  ![Static Badge](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&color=white)
+  ![TeXstudio](https://custom-icon-badges.demolab.com/badge/-TeXstudio-white.svg?style=for-the-badge&logo=texstudio&logoColor=white)
+  ![JabRef](https://custom-icon-badges.demolab.com/badge/-JabRef-white.svg?style=for-the-badge&logo=jabref&logoColor=white)
+  ![Overleaf](https://img.shields.io/badge/overleaf-47A141?style=for-the-badge&logo=overleaf&color=white)
   
 
 <br>
