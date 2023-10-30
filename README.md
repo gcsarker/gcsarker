@@ -9,7 +9,7 @@
 - Currently I am doing research in Robotics \& HCI.
 - I am currently a graduate student at the University of Dhaka.
 - In my spare time  I love playing games and reading books.
-- This is my <a href= 'https://github.com/gcsarker/gcsarker/cv.pdf'>resume.</a>
+- This is my <a href= 'https://github.com/gcsarker/gcsarker/blob/main/cv.pdf'>resume.</a>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
